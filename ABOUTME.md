@@ -1,5 +1,7 @@
 # Tina Balavadze
 
+ex learning experience designer
+coffee ninja 
 based in Berlin
 
 ### Travel 2022
@@ -30,4 +32,4 @@ based in Berlin
 style="width:300px;height:300px;">
 
 
-<span style='font-size:100px;'>&#128064;</span>
+🤯
